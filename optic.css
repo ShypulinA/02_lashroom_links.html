@@ -1,0 +1,60 @@
+.lash1 {
+   border: 10px solid rgb(232, 207, 230);
+   border-radius: 10px;
+   background-color: rgb(232, 207, 230);
+}
+
+.lash2 {
+   border: 10px solid rgb(232, 207, 230);
+   border-radius: 10px;
+   background-color: rgb(232, 207, 230);
+}
+
+.card {
+   border: 10px solid rgb(232, 207, 230);
+   border-radius: 10px;
+   background-color: rgb(232, 207, 230);
+}
+
+.img {
+   border-radius: 10px;
+}
+
+.vivo {
+   border-radius: 20px;
+   padding: 15px 20px;
+   margin-bottom: 20px;
+}
+
+.info-text h4 {
+   margin-left: 10px;
+}
+
+.card h2 {
+   margin-bottom: 10px;
+
+}
+
+.avatar {
+   width: 50%;
+   border-radius: 50%;
+   box-shadow: 10px 10px 20px rgba 0, 0, 0, .25;
+   display: block;
+   margin: 40px auto;
+}
+
+.list {
+   border: 10px solid rgb(232, 207, 230);
+   border-radius: 10px;
+   background-color: rgb(232, 207, 230);
+}
+.position{
+   position: relative ;
+   top: 0; left: 250px;
+}
+.navbar{
+   position: fixed;
+   top: 0;
+   left: 0;
+   right: 0;
+}
