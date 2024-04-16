@@ -49,9 +49,9 @@
    background-color: rgb(232, 207, 230);
 }
 .position{
-   position: relative ;
-   top: 0; left: 250px;
+   object-position: center top;
 }
+
 .navbar{
    position: fixed;
    top: 0;
