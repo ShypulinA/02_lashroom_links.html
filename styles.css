@@ -3,6 +3,13 @@
     background-color: #b14343 ;
     color:#853e4a ;
 }
+@media (max-width: 650px) {
+    .info {
+      display: block;
+      text-align: center;
+    }
+  }
+  
 
 .info-text p {
     font-style: italic;
@@ -30,4 +37,3 @@
 .color-5 {
     color:rgba(184, 60, 184, 0.5);
 }
-
