@@ -1,0 +1,38 @@
+
+.body {
+    background-color: #b14343 ;
+    color:#853e4a ;
+}
+
+.container{
+    max-width: 750px;
+    margin: auto;
+}
+
+.info-text p {
+    font-style: italic;
+    font-weight: bold;
+    color: #420638;
+    margin: 0;
+}
+
+.color-1{
+    color:blue;
+}
+/* RedGreenBlue каждые 2 числа это цвет*/
+.color-2 {
+    color:#703045;
+}
+.color-3 {
+    color:#fff
+}
+/* 0-255*/
+.color-4 {
+    color:rgb(184, 60, 184);
+    opacity: 0.5;
+}
+/* 4й параметр это прозрачность от 0 до 1*/
+.color-5 {
+    color:rgba(184, 60, 184, 0.5);
+}
+
